@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "195207673186",
+    "project_id": "dsvc-2024a-cc-gr1",
+    "storage_bucket": "dsvc-2024a-cc-gr1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195207673186:android:5c2ed35ef006fe30d9683b",
+        "android_client_info": {
+          "package_name": "com.example.a2024accgr1dsvc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWiosjRUU0FiOrQYEu5bB41xEOjBDe_ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
